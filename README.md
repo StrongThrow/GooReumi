@@ -32,7 +32,7 @@
 
 | ProFile | Role | Part | Tech Stack |
 |:--------:|:--------:|:--------:|:--------:|
-| ![1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/fa24aab6-a2db-4e61-a032-61e6adffcca8) <br> 강송구 |   팀장  |   HW, SW |   Arduino, Fusion 360, Firebase |
+| ![1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/fa24aab6-a2db-4e61-a032-61e6adffcca8) <br> [강송구](https://github.com/Throwball99) |   팀장  |   HW, SW |   Arduino, Fusion 360, Firebase |
 | ![2 orange](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/c9eadced-f7e2-419b-a819-1612bf5ea15a) <br>  박정욱   |   팀원  |   SW, Server  |   Python, OpenCV, MediaPipe, Flask, Firebase  |
-|   ![개구리](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> 최지민    |   팀원  |   SW, UI  |   Flutter, Android, Firebase   |
+|   ![개구리](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> [최지민](https://github.com/irmu98)    |   팀원  |   SW, UI  |   Flutter, Android, Firebase   |
 
