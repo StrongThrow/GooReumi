@@ -3,7 +3,7 @@
 
 # 작품명: 구르미
 ![구르미](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/a1e882db-481a-4def-9227-3e6506fc88d7)
-[![youtube-icon-style](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/23448e80-1fc7-4da9-8e13-fbfefa045098)](https://www.youtube.com/watch?v=c1mmPyIKfM4)
+[![youtube-icon-style](https://cdn.discordapp.com/attachments/1120592664480460863/1146691588681121802/youtube-icon-style.png)](https://www.youtube.com/watch?v=c1mmPyIKfM4)
 
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
 
@@ -30,6 +30,9 @@
 
 ## 팀원
 
-- 강송구(팀장) : 하드웨어 설계 및 제작, 3D 디자인 설계 및 모델링
-- 박정욱(팀원) : 영상처리 및 머신러닝 모델 개발
-- 최지민(팀원) : UI 디자인, 어플 개발, 영상 편집
+| ProFile | Role | Part | Tech Stack |
+|:--------:|:--------:|:--------:|:--------:|
+| ![1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/fa24aab6-a2db-4e61-a032-61e6adffcca8) <br> 강송구 |   팀장  |   HW, SW |   Arduino, Fusion 360, Firebase |
+| ![2 orange](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/c9eadced-f7e2-419b-a819-1612bf5ea15a) <br>  박정욱   |   팀원  |   SW, Server  |   Python, OpenCV, MediaPipe, Flask, Firebase  |
+|   ![개구리](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> 최지민    |   팀원  |   SW, UI  |   Flutter, Android   |
+
