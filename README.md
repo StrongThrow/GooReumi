@@ -3,6 +3,7 @@
 
 # 작품명: 구르미
 ![구르미](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/a1e882db-481a-4def-9227-3e6506fc88d7)
+[![youtube-icon-style](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/23448e80-1fc7-4da9-8e13-fbfefa045098)](https://www.youtube.com/watch?v=c1mmPyIKfM4)
 
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
 
