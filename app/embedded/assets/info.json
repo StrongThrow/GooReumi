@@ -1,0 +1,324 @@
+{
+  "plants": [
+    {
+      "name": "아이비",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 3
+    },
+    {
+      "name": "렉스베고니아",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 2
+    },
+    {
+      "name": "아글라오네마",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "스파티필룸",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "금전수",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 2
+    },
+    {
+      "name": "무늬접란",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "스킨답서스",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "보스톤고사리",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 70,
+        "max": 100
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 3
+    },
+    {
+      "name": "칼라데아",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "테이블야자",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 3
+    },
+    {
+      "name": "관음죽",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 2
+    },
+    {
+      "name": "멜라니 고무나무",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "싱고니움",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 3
+    },
+    {
+      "name": "콤팩타",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 3
+    },
+    {
+      "name": "죽백",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 2
+    },
+    {
+      "name": "아스플레니움",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 4
+    },
+    {
+      "name": "개운죽",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 16,
+        "max": 20
+      },
+      "moisture": 3
+    },
+    {
+    "name": "행운목",
+    "brightness": {
+      "min": 2,
+      "max": 3
+    },
+    "humidity": {
+      "min": 40,
+      "max": 70
+    },
+    "temperature": {
+      "min": 21,
+      "max": 25
+    },
+    "moisture": 3
+    },
+    {
+      "name": "산세베리아",
+      "brightness": {
+        "min": 1,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    },
+    {
+      "name": "틸란드시아",
+      "brightness": {
+        "min": 2,
+        "max": 3
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "temperature": {
+        "min": 21,
+        "max": 25
+      },
+      "moisture": 2
+    }
+  ]
+}
