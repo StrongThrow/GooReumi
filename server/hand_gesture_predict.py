@@ -6,7 +6,7 @@ import time
 import joblib
 from firebase_admin import credentials
 from firebase_admin import db
-import Python.hand_gesture_processing as hand_gesture_processing
+import hand_gesture_processing
 import warnings
 warnings.filterwarnings('ignore')
 
