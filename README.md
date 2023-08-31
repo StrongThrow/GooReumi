@@ -2,6 +2,7 @@
 제21회 임베디드SW경진대회 연탄불고기
 
 # 작품명: 구르미
+![구르미](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/a1e882db-481a-4def-9227-3e6506fc88d7)
 
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
 
@@ -16,6 +17,11 @@
 - 원격 컨트롤과 차트 정보 확인 등이 가능한 전용 어플
 - 카메라, 디스플레이와 앱을 통한 상호작용
 - 농촌진흥청에서 제공하는 데이터를 이용한 식물 권장 조건 제공
+
+## 전용 어플
+![어플 1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/e35fed97-a7fe-4c65-9e6c-0b73e69c0c1b)
+![어플2](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/112a55c8-9a8d-406a-8cfc-e55d429de534)
+
 
 ## 개발환경
 
