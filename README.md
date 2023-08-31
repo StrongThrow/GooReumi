@@ -2,7 +2,7 @@
 제21회 임베디드SW경진대회 연탄불고기
 
 # 작품명: 구르미
-![구르미](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/a1e882db-481a-4def-9227-3e6506fc88d7)
+![구르미](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/b9012ef9-55c7-4d19-985d-3f878d816c16)
 [![youtube-icon-style](https://cdn.discordapp.com/attachments/1120592664480460863/1146691588681121802/youtube-icon-style.png)](https://www.youtube.com/watch?v=c1mmPyIKfM4)
 
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
