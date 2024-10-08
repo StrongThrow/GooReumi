@@ -1,7 +1,9 @@
 # 작품명: 구르미
 [2024 ICT 융합 프로젝트 공모전 장려상]
 (수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
+
 (유튜브 링크 : https://youtu.be/c1mmPyIKfM4)
+
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
 
 ## 배경
