@@ -1,5 +1,6 @@
 # 작품명: 구르미
 [2024 ICT 융합 프로젝트 공모전 장려상]
+
 (수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
 
 (유튜브 링크 : https://youtu.be/c1mmPyIKfM4)
