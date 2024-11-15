@@ -31,8 +31,9 @@
 ![asdfasdfasdf](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/6dd87b23-9965-4dc2-b8c8-5f65e151b917)
 
 ## 수상내역
-(수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
+
 ![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
+(수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
 
 ## 팀원
 
