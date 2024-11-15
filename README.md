@@ -1,8 +1,6 @@
 # 작품명: 구르미 [2024 ICT 융합 프로젝트 공모전 장려상]
 
-![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
-
-(수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
+![구르미](https://github.com/user-attachments/assets/0ea50e7e-5c21-49c6-9876-41a1f0ea66c3)
 
 (유튜브 링크 : https://youtu.be/c1mmPyIKfM4)
 
@@ -34,6 +32,10 @@
 ## 개발환경
 
 ![asdfasdfasdf](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/6dd87b23-9965-4dc2-b8c8-5f65e151b917)
+
+## 수상내역
+(수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
+![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
 
 ## 팀원
 
