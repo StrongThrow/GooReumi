@@ -33,6 +33,7 @@
 ## 수상내역
 
 ![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
+
 (수상 내역 : https://www.devicemart.co.kr/board/view?id=award_board&seq=138066)
 
 ## 팀원
