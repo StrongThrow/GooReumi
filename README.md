@@ -1,6 +1,6 @@
 # 작품명: 구르미 [2024 ICT 융합 프로젝트 공모전 장려상]
 
-![구르미](https://github.com/user-attachments/assets/0ea50e7e-5c21-49c6-9876-41a1f0ea66c3)
+![캡처](https://github.com/user-attachments/assets/1c930a24-7c4b-434f-b5b0-600b5200ec6f)
 
 (유튜브 링크 : https://youtu.be/c1mmPyIKfM4)
 
@@ -20,9 +20,6 @@
 
 ## 회로도
 ![회로도](https://github.com/user-attachments/assets/00108d0a-d918-4d61-b5b0-40eb74fb8be3)
-
-## 구르미
-![구르미](https://github.com/user-attachments/assets/fec01d92-30c7-4eae-9fad-af4ce9f1eafa)
 
 ## 전용 어플
 ![어플 1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/e35fed97-a7fe-4c65-9e6c-0b73e69c0c1b)
