@@ -2,7 +2,7 @@
 
 ![캡처](https://github.com/user-attachments/assets/1c930a24-7c4b-434f-b5b0-600b5200ec6f)
 
-(유튜브 링크 : https://youtu.be/c1mmPyIKfM4)
+(유튜브 링크 : https://youtu.be/SMD-Z0I87Jk)
 
 식물 위의 구름을 연상해서 지은 이름으로, 반려식물과의 상호작용과 편리한 관리를 위한 장치.
 
