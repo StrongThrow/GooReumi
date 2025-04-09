@@ -103,7 +103,7 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 
 | 프로필 | 역할  | 담당 부분 | 기술 스택 |
 |--------|-------|----------|-----------|
-| ![강송구](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/Throwball99) | 팀장  | HW, SW 개발 | Arduino, Fusion 360, Firebase |
+| ![강송구](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/StrongThrow) | 팀장  | HW, SW 개발 | Arduino, Fusion 360, Firebase |
 | ![박정욱](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/c9eadced-f7e2-419b-a819-1612bf5ea15a) <br> [박정욱](https://github.com/wjddnr0920) | 팀원  | SW, 서버 개발 | Python, OpenCV, MediaPipe, Flask, Firebase |
 | ![최지민](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> [최지민](https://github.com/irmu98) | 팀원  | SW, UI 개발 | Flutter, Android, Firebase |
 
