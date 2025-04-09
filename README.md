@@ -2,13 +2,13 @@
 
 ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스마트 화분 시스템**입니다.  
 센서 데이터를 기반으로 자동 급수 및 실시간 모니터링 기능을 제공하며,  
-카메라 및 웹캠 제스처 인식을 통해 사용자와 상호작용하는 **감성형 IoT 제품**입니다.
+카메라 및 웹캠 제스처 인식을 통해 사용자와 상호작용하는 **IoT 제품**입니다.
 
 ---
 
 ## 🎥 시연 영상
 
-[🔗 유튜브 시연 영상 보러가기](https://youtu.be/PdQAkpsblVo)
+[🔗 유튜브 시연 영상 보러가기](https://youtu.be/SMD-Z0I87Jk)
 
 ---
 
@@ -83,6 +83,8 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 ## 🏆 수상
 
 - **2024 ICT 융합 프로젝트 공모전 장려상 수상**
+- 
+![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
 
 ---
 
@@ -93,6 +95,16 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 | ![강송구](https://github.com/user-attachments/assets/986e1819-2d0d-4715-97ce-590ea6495421) <br> [강송구](https://github.com/Throwball99) | 팀장  | HW, SW 개발 | Arduino, Fusion 360, Firebase |
 | ![박정욱](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/c9eadced-f7e2-419b-a819-1612bf5ea15a) <br> [박정욱](https://github.com/wjddnr0920) | 팀원  | SW, 서버 개발 | Python, OpenCV, MediaPipe, Flask, Firebase |
 | ![최지민](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/69319bbd-74bb-40c1-92d8-ae96e23b3500) <br> [최지민](https://github.com/irmu98) | 팀원  | SW, UI 개발 | Flutter, Android, Firebase |
+
+---
+
+## 🧾 회로도
+
+- **도어락 회로도**  
+  ![도어락 회로도](https://github.com/user-attachments/assets/ece91a11-e34d-447f-a80c-1111ed658291)
+
+- **제어부 회로도**  
+  ![제어부 회로도](https://github.com/user-attachments/assets/832fc948-5dd8-47a6-b7ee-9e728564179a)
 
 ---
 
