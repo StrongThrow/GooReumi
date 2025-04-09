@@ -66,6 +66,8 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 
 ## 🛠 사용 기술
 
+![asdfasdfasdf](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/6dd87b23-9965-4dc2-b8c8-5f65e151b917)
+
 | 분류     | 기술 |
 |----------|------|
 | MCU      | ESP32-S3, Arduino Framework |
@@ -82,11 +84,17 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 
 ## 🧾 회로도
 
-- **도어락 회로도**  
-  ![도어락 회로도](https://github.com/user-attachments/assets/ece91a11-e34d-447f-a80c-1111ed658291)
+![회로도](https://github.com/user-attachments/assets/00108d0a-d918-4d61-b5b0-40eb74fb8be3)
 
-- **제어부 회로도**  
-  ![제어부 회로도](https://github.com/user-attachments/assets/832fc948-5dd8-47a6-b7ee-9e728564179a)
+---
+
+---
+
+## 📱 전용 어플
+
+![어플 1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/e35fed97-a7fe-4c65-9e6c-0b73e69c0c1b)
+![어플2](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/112a55c8-9a8d-406a-8cfc-e55d429de534)
+
 
 ---
 
