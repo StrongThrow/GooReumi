@@ -1,5 +1,7 @@
 # 🌱 GooReumi: ESP32-S3 기반 스마트 IoT 화분 시스템
 
+![Image](https://github.com/user-attachments/assets/c8260f0d-6635-483c-b4d2-8ac1c888e17c)
+
 ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스마트 화분 시스템**입니다.  
 센서 데이터를 기반으로 자동 급수 및 실시간 모니터링 기능을 제공하며,  
 카메라 및 웹캠 제스처 인식을 통해 사용자와 상호작용하는 **IoT 제품**입니다.
