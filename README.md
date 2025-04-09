@@ -94,6 +94,7 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 ## 🏆 수상
 
 - **2024 ICT 융합 프로젝트 공모전 장려상 수상**
+  
 ![상장](https://github.com/user-attachments/assets/20961ce1-dfa6-4a7e-aeb2-d9bb763fa953)
 
 ---
