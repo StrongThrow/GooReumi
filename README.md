@@ -88,8 +88,6 @@ ESP32-S3, Firebase, Python 서버, Flutter 앱을 통합하여 제작한 **스�
 
 ---
 
----
-
 ## 📱 전용 어플
 
 ![어플 1](https://github.com/Throwball99/2023ESWContest_free_1042/assets/143514249/e35fed97-a7fe-4c65-9e6c-0b73e69c0c1b)
